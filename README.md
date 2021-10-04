@@ -1,8 +1,8 @@
 I am Ph.D student in T-stone Robotics Institute, CUHK.
 
-- intertest in the intersection of ML and Robotics
-- working on research of RL for under-actuated robot control, currently.
-- learning about model-based RL, currently. 
+- Intertest in the intersection of ML and Robotics
+- Working on research of RL for under-actuated robot control, currently.
+- Learning about model-based RL, currently. 
 - Contact me: hongbinlin@link.cuhk.edu.hk
 
 
