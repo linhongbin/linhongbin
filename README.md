@@ -4,7 +4,7 @@ I am Ph.D student in T-stone Robotics Institute, CUHK.
 - Working on research of RL for under-actuated robot control, currently.
 - Learning about model-based RL, currently. 
 - Contact me: hongbinlin@link.cuhk.edu.hk
-
+- Related links: [Research Lab](https://biomedirobotics.com/), [Linkedin](https://www.linkedin.com/in/hongbin-lin-aa2253170/)
 
 <!-- 
 **linhongbin/linhongbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
