@@ -1,7 +1,7 @@
 I am Ph.D student in T-stone Robotics Institute, CUHK.
 
 - Intertest in the intersection of _ML_ and _Robotics_.
-- Working on research of RL for under-actuated robot control, currently.
+- Research: Surgical Autonomy, RL.
 - Learning about model-based RL, currently. 
 - Contact me: hongbinlin@link.cuhk.edu.hk
 - Related links: [Research Lab](https://biomedirobotics.com/), [Linkedin](https://www.linkedin.com/in/hongbin-lin-aa2253170/), [Google Scholar](https://scholar.google.com/citations?user=9K1iBJwAAAAJ&hl=zh-TW)
